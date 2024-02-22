@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "uk2OpEfm4SULI8a0NBTduwumviH83WIqViYo0HzDEKUZ5SW3YRlR87XTiEGnpIwDYv/bXdym0F2QkqlmLNT3UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Justin van der Hoeve\\source\\repos\\SimFit360\\SimFit360\\SimFit360\\SimFit360.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Justin van der Hoeve\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
+    "C:\\Users\\Justin van der Hoeve\\.nuget\\packages\\microsoft.windowsappsdk\\1.4.230913002\\microsoft.windowsappsdk.1.4.230913002.nupkg.sha512",
+    "C:\\Users\\Justin van der Hoeve\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.27\\microsoft.netcore.app.runtime.win-x86.6.0.27.nupkg.sha512",
+    "C:\\Users\\Justin van der Hoeve\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512",
+    "C:\\Users\\Justin van der Hoeve\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.27\\microsoft.aspnetcore.app.runtime.win-x86.6.0.27.nupkg.sha512",
+    "C:\\Users\\Justin van der Hoeve\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\6.0.27\\microsoft.netcore.app.runtime.win-arm64.6.0.27.nupkg.sha512",
+    "C:\\Users\\Justin van der Hoeve\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.27\\microsoft.aspnetcore.app.runtime.win-x64.6.0.27.nupkg.sha512",
+    "C:\\Users\\Justin van der Hoeve\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\6.0.27\\microsoft.windowsdesktop.app.runtime.win-arm64.6.0.27.nupkg.sha512",
+    "C:\\Users\\Justin van der Hoeve\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.27\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.27.nupkg.sha512",
+    "C:\\Users\\Justin van der Hoeve\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\6.0.27\\microsoft.aspnetcore.app.runtime.win-arm64.6.0.27.nupkg.sha512",
+    "C:\\Users\\Justin van der Hoeve\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.27\\microsoft.netcore.app.runtime.win-x64.6.0.27.nupkg.sha512",
+    "C:\\Users\\Justin van der Hoeve\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.27\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
