@@ -16,7 +16,7 @@ namespace SimFit360.Model
             //Go to the App.config.example file and then follow Instructions
 
             optionsBuilder.UseMySql(
-                ConfigurationManager.ConnectionStrings["name"].ConnectionString,
+                ConfigurationManager.ConnectionStrings["SlimFit360"].ConnectionString,
                 ServerVersion.Parse("5.7.33-winx64"));
         }
 
