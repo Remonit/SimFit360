@@ -20,7 +20,7 @@
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design\7.0.16\build\net6.0\Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design\7.0.16\build\net6.0\Microsoft.EntityFrameworkCore.Design.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgMicrosoft_WindowsAppSDK Condition=" '$(PkgMicrosoft_WindowsAppSDK)' == '' ">C:\Users\alexa\.nuget\packages\microsoft.windowsappsdk\1.4.230913002</PkgMicrosoft_WindowsAppSDK>
-    <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\alexa\.nuget\packages\microsoft.entityframeworkcore.tools\7.0.16</PkgMicrosoft_EntityFrameworkCore_Tools>
+    <PkgMicrosoft_WindowsAppSDK Condition=" '$(PkgMicrosoft_WindowsAppSDK)' == '' ">C:\Users\Justin van der Hoeve\.nuget\packages\microsoft.windowsappsdk\1.4.230913002</PkgMicrosoft_WindowsAppSDK>
+    <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\Justin van der Hoeve\.nuget\packages\microsoft.entityframeworkcore.tools\7.0.16</PkgMicrosoft_EntityFrameworkCore_Tools>
   </PropertyGroup>
 </Project>
