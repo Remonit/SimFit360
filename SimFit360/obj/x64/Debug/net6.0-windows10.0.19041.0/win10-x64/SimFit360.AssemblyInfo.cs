@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimFit360")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+130cce256cbf22e0fd52888cdde066a5842e6f90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d83ddccc3476be5a959705e0eb2d7b719cf5d3c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimFit360")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimFit360")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
