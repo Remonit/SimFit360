@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,7 +18,7 @@ namespace SimFit360.Model
         public int Progress { get; set; }
         public int? Tier { get; set; }
 
+        [InverseProperty(nameof(User.Id))]
         public int UserId { get ; set; }
-
     }
 }
